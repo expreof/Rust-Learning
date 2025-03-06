@@ -3,4 +3,5 @@ resolver = "3"
 members = [
     "guessing_game",
     "hello_cargo",
+    "variables",
 ]
