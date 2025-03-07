@@ -5,5 +5,5 @@ members = [
     "hello_cargo",
     "variables",
     "functions",
-    "branches", "ownership",
+    "branches", "ownership", "slice",
 ]
